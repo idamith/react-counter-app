@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Clone Repository to your local
+
+`git clone https://github.com/idotrick/react-counter-app`
+
+## Init React Project
+
+`cd react-counter-app`<br/>
+`npm update`
 
 ## Available Scripts
 
